@@ -23,7 +23,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
-### I am a Full Stack Developer
+### I am a beginner programmer (python powered)
 - 💻 I'm programming student in <a href="https://pureid.io](https://www.frd.utn.edu.ar/">UTN </a>
 - 🔭 I’m currently working on my Portfolio Git :grin:
 - 🌱 I’m currently learning Python and Linux.
